@@ -1,0 +1,56 @@
+.main-background{
+
+    background-color: #1b1b1b;
+    padding: 20px;
+    background-size: cover;
+    height: 100vh;
+    font-family: "Bree Serif";
+}
+.headings{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+}
+.abul{
+    background-color: #e6f6ff;
+    height: 250px;
+    width: 400px;
+    border-radius: 10px;
+    background-attachment: fixed;
+    height: 175px;
+}
+.abdul-text{
+    margin: 15px;
+}
+.abdul-head{ 
+    font-weight:bold;
+    font-size: 20px;
+    color: #183b56;
+}
+.abdul-line{
+    color:#183b56;
+    size: 10px;
+    
+}
+.abdul-auth{
+    color: #183b56;
+    font-weight: 30;
+}
+.second{background-color: #1b1b1b;
+padding:10px;}
+.img1{
+    height: 150px;
+    width: 100px;
+}
+.bold{ color:#ffffff
+
+    
+}
+.img2{
+    padding-block-start: 15px;
+    height: 150px;
+    width: 100px;
+}
+.button{
+    padding-block-start: 10px;
+}
